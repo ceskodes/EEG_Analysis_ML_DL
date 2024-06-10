@@ -3,3 +3,8 @@ __pycache__/
 
 # Ignore Virtual Enviroment
 venv/
+
+# Ignore Large Size Folders
+datasets/
+SVM_model/
+CNN_model/
